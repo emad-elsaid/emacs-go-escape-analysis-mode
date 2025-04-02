@@ -1,4 +1,4 @@
-;;; go-escape-analysis.el --- Minor mode to display Go escape analysis annotations
+;;; go-escape-analysis-mode.el --- Minor mode to display Go escape analysis annotations
 
 ;; Author: Emad Elsaid (Co-Authored by Claud)
 ;; Keywords: go, tools
