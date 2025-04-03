@@ -8,7 +8,7 @@ annotations to the relevant lines in the buffer.
 # Usage
 
 ```elisp
-(require go-escape-analysis-mode)
+(require 'go-escape-analysis-mode)
 ```
 
 Turn on the minor mode in any Go buffer to see variable escapes and variables moved to heap.
